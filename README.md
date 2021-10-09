@@ -4,7 +4,7 @@
 
 
 
-### Connect with me: <a href="#"> <img src="https://raw.githubusercontent.com/chizurumizuharas/chizurumizuharas/main/1.gif" height="32"> </a>
+### Connect with me: <a href="#"> <img src="https://raw.githubusercontent.com/chizurumizuharas/chizurumizuharas/main/1.gif" height="34"> </a>
 
 
 
